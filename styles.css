@@ -1,0 +1,12 @@
+body {
+	margin-left: 150px;
+}
+
+ul.navbar {
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	width: 125px;
+}
+
+
